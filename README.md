@@ -2,10 +2,6 @@
 
 I have developed an API structure compatible with all platforms with NodeJS. It is possible for you to respond to advanced level requests within this API structure. The project is in a compact structure.you can make general adjustments via the env file. You can develop web applications, desktop applications and mobile applications. You can customize your environment variables and increase the scope depending on your project.
 
-## NodeJS API, Hazır MVC Yapısı [Tüm Platformlara Uyumlu] [TR]
-
-I have developed an API structure compatible with all platforms with NodeJS. It is possible for you to respond to advanced level requests within this API structure. The project is in a compact structure.you can make general adjustments via the env file. You can develop web applications, desktop applications and mobile applications. You can customize your environment variables and increase the scope depending on your project.
-
 ## Requirements
 
 It refers to the infrastructure required to operate the project.
