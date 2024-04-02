@@ -1,0 +1,13 @@
+class AdminUser {
+  constructor(admin_ID, admin_Name, admin_Surname, admin_Mail, admin_Phone, admin_Password, admin_Address, admin_Role) {
+      this.admin_ID = admin_ID;
+      this.admin_Name = admin_Name;
+      this.admin_Surname = admin_Surname;
+      this.admin_Mail = admin_Mail;
+      this.admin_Phone = admin_Phone;
+      this.admin_Password = admin_Password;
+      this.admin_Address = admin_Address;
+      this.admin_Role = admin_Role;
+  }
+}
+module.exports = AdminUser;

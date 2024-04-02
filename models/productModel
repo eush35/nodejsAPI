@@ -1,0 +1,12 @@
+class Product{
+    constructor(product_ID,product_Name,product_Desc,product_Category,product_Price,product_IMG,product_Status,){
+        this.product_ID = product_ID;
+        this.product_Name = product_Name;
+        this.product_Desc = product_Desc;
+        this.product_Category = product_Category;
+        this.product_Price = product_Price;
+        this.product_IMG = product_IMG;
+        this.product_Status = product_Status;
+    }
+}
+module.exports = Product;

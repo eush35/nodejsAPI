@@ -1,0 +1,8 @@
+class Category{
+    constructor(category_ID,category_Name,category_IMG){
+        this.category_ID = category_ID;
+        this.category_Name = category_Name;
+        this.category_IMG = category_IMG;
+    }
+  }
+module.exports = Category;

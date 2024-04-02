@@ -1,0 +1,14 @@
+class customerUser {
+  constructor(customer_ID, customer_Name, customer_Surname, customer_Mail, customer_Phone, customer_Password, customer_Address, customer_Product, customer_Role) {
+      this.customer_ID = customer_ID;
+      this.customer_Name = customer_Name;
+      this.customer_Surname = customer_Surname;
+      this.customer_Mail = customer_Mail;
+      this.customer_Phone = customer_Phone;
+      this.customer_Password = customer_Password;
+      this.customer_Address = customer_Address;
+      this.customer_Product = customer_Product;
+      this.customer_Role = customer_Role;
+  }
+}
+module.exports = customerUser;
